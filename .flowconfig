@@ -1,0 +1,13 @@
+[ignore]
+.*/node_modules/enzyme-matchers/.*
+.*/node_modules/jest-enzyme/.*
+.*/node_modules/styled-components/.*
+.*/node_modules/autenti-components/.*
+.*/node_modules/storybook-addon-props/.*
+
+[include]
+
+[libs]
+
+[options]
+suppress_comment= \\(.\\|\n\\)*\\$FlowIgnore
